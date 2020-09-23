@@ -1,4 +1,30 @@
-# 1. 超级厉害的基金会
+> 1. 推送提交格式
+>
+>    ```
+>    名称或者类目
+>    官网网站
+>    github或gitee仓库名(没有就不用写)
+>    使用评价
+>    其他描述(可以实现的功能或者完成的事情)
+>    ```
+>    
+>    - 示例
+>    
+>    ![image-20200923103035596](https://gitee.com/lx201418/picRepository/raw/master/img/20200923103042.png)
+>    
+> 2. 推送要求
+>
+>    1. 一定要分好类目
+>    2. 一定要符合要求格式，便于阅读
+>
+> 3. 推送方法
+>
+>    1. 先把该仓库使用git pull拉到本地。
+>    2. 然后在这个基础上修改，然后推到该仓库
+
+-------
+
+# 1. 牛逼的基金会
 
 1. Apache 阿帕奇基金会
 2. Mozilla基金会--火狐的爸爸
@@ -8,6 +34,7 @@
 1. 毫无疑问及其厉害的一个:Mozilla基金会的Mozilla开发者网络--`简称MDN`
 
    > - 国内版：https://developer.mozilla.org/zh-CN/
+   > - 评价： 是一个学习前端规范和网络协议的第一选择
    > - 涵盖范围：web开发技术：HTML javascript css HTTP  API/DOM和HTTP及其他
 
 2. bootstrap的文件上传插件---`fileInput`
@@ -28,7 +55,8 @@
 
    > - 官方网站：  https://cn.vuejs.org/
    > - github地址： https://github.com/vuejs/vue
-   > - 一款优秀的js框架
+   > - 评价： 一款优秀的js框架。
+   > - 优点：Vue的强大之处在于它的数据绑定和实时渲染。现在已经到Vue 3了。很多新的开发理念和配套工具也发布了。
 
 # 3. 后端的技术文档
 
@@ -44,6 +72,7 @@
    > - 官网网站：https://squoosh.app/
    > - 汉化网站:https://squoosh.net/
    > - github地址:https://github.com/GoogleChromeLabs/squoosh/
+   > - 评价： 压缩效率极高，谷歌出品
 
 2. AI图片人工智能放大
 
@@ -73,3 +102,4 @@
    > - 描述：是一个集合设计师需要的所有东西的一个网站
    > - 官方网址: https://hao.uisdc.com/
 
+# 7.  Chrome的必备插件
