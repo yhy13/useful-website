@@ -24,6 +24,8 @@
 
 -------
 
+# ==文档和资源==
+
 # 1. 牛逼的基金会
 
 1. Apache 阿帕奇基金会
@@ -102,4 +104,13 @@
    > - 描述：是一个集合设计师需要的所有东西的一个网站
    > - 官方网址: https://hao.uisdc.com/
 
-# 7.  Chrome的必备插件
+------
+
+# ==好用的软件==
+
+# 1. typora--markdown文本编辑器
+
+> - 使用typora编辑器来进行说明文档的编辑和修改。
+> - 推荐阅读
+>   1. [使用picgo和gitee为typora配置在线图床](https://blog.csdn.net/qq_42827680/article/details/105951510)
+>   2. [typora的使用及其语法规则](https://blog.csdn.net/mollen/article/details/84110708)
